@@ -234,7 +234,7 @@ import { faTicket } from '@fortawesome/pro-duotone-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-duotone-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-duotone-svg-icons/faUserAstronaut';
 
-export const fadIcons = [
+export default fadIcons = [
     faArrowLeft,
     faArrowsV,
     faCheckCircle,

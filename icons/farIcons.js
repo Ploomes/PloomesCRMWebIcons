@@ -235,7 +235,7 @@ import { faTrophy } from '@fortawesome/pro-regular-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-regular-svg-icons/faUserAstronaut';
 
 
-export const farIcons = [
+export default farIcons = [
     faArrowLeft,
     faArrowsV,
     faCheckCircle,

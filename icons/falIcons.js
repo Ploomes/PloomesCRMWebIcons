@@ -234,7 +234,7 @@ import { faTicket } from '@fortawesome/pro-light-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-light-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-light-svg-icons/faUserAstronaut';
 
-export const falIcons = [
+export default falIcons = [
     faArrowLeft,
     faArrowsV,
     faCheckCircle,

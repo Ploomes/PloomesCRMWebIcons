@@ -15,7 +15,7 @@ module.exports = {
     optimization: {
         minimize: true
     },
-    plugins: [
-        new BundleAnalyzerPlugin()
-    ]
+    // plugins: [
+    //     new BundleAnalyzerPlugin()
+    // ]
 }
