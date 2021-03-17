@@ -238,7 +238,8 @@ import { faPaperclip } from '@fortawesome/pro-light-svg-icons/faPaperclip';
 import { faFolderTree } from '@fortawesome/pro-light-svg-icons/faFolderTree';
 import { faCalendarAlt } from '@fortawesome/pro-light-svg-icons/faCalendarAlt';
 import { faTable } from '@fortawesome/pro-light-svg-icons/faTable';
-import { faSendBack } from '@fortawesome/pro-light-svg-icons/';
+import { faSendBack } from '@fortawesome/pro-light-svg-icons/faSendBack';
+import { faEllipsisV } from '@fortawesome/pro-light-svg-icons/faEllipsisV';
 
 const falIcons = [
     faArrowLeft,
