@@ -233,10 +233,18 @@ import { faTemperatureUp } from '@fortawesome/pro-light-svg-icons/faTemperatureU
 import { faTicket } from '@fortawesome/pro-light-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-light-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-light-svg-icons/faUserAstronaut';
+import { faUpload } from '@fortawesome/pro-light-svg-icons/faUpload';
+import { faPaperclip } from '@fortawesome/pro-light-svg-icons/faPaperclip';
+import { faFolderTree } from '@fortawesome/pro-light-svg-icons/faFolderTree';
+import { faCalendarAlt } from '@fortawesome/pro-light-svg-icons/faCalendarAlt';
+import { faTable } from '@fortawesome/pro-light-svg-icons/faTable';
+import { faSendBack } from '@fortawesome/pro-light-svg-icons/';
 
 const falIcons = [
     faArrowLeft,
     faArrowsV,
+    faTable,
+    faSendBack,
     faCheckCircle,
     faChevronDown,
     faChevronRight,
@@ -248,6 +256,7 @@ const falIcons = [
     faDownload,
     faEdit,
     faEllipsisH,
+    faEllipsisV,
     faEnvelope,
     faExternalLink,
     faEye,
@@ -467,6 +476,10 @@ const falIcons = [
     faTicket,
     faTrophy,
     faUserAstronaut,
+    faUpload,
+    faPaperclip,
+    faFolderTree,
+    faCalendarAlt,
 ];
 
 export default falIcons
