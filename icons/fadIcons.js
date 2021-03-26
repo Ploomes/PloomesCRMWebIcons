@@ -233,9 +233,11 @@ import { faTemperatureUp } from '@fortawesome/pro-duotone-svg-icons/faTemperatur
 import { faTicket } from '@fortawesome/pro-duotone-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-duotone-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-duotone-svg-icons/faUserAstronaut';
+import { faCalendarAlt } from '@fortawesome/pro-duotone-svg-icons/faCalendarAlt';
 
 
 const fadIcons = [
+    faCalendarAlt,
     faArrowLeft,
     faArrowsV,
     faCheckCircle,

@@ -233,9 +233,11 @@ import { faTemperatureUp } from '@fortawesome/pro-regular-svg-icons/faTemperatur
 import { faTicket } from '@fortawesome/pro-regular-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-regular-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-regular-svg-icons/faUserAstronaut';
+import { faCalendarAlt } from '@fortawesome/pro-regular-svg-icons/faCalendarAlt';
 
 
 const farIcons = [
+    faCalendarAlt,
     faArrowLeft,
     faArrowsV,
     faCheckCircle,
