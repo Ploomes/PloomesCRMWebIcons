@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack --config webpack.config.js && cp package.json dist",
-    "build:publish": "npm version patch && npm run build && npm publish dist"
+    "build": "webpack --config webpack.config.js",
+    "build:publish": "npm version patch && npm run build && npm publish"
   },
   "keywords": [],
   "author": "",
