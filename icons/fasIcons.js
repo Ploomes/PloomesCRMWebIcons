@@ -235,8 +235,13 @@ import { faTicket } from '@fortawesome/pro-solid-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-solid-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-solid-svg-icons/faUserAstronaut';
 import { faCalendarAlt } from '@fortawesome/pro-solid-svg-icons/faCalendarAlt';
+// Reports
+import { faFilter } from '@fortawesome/pro-regular-svg-icons/faFilter';
+import { faPlusCircle } from '@fortawesome/pro-regular-svg-icons/faPlusCircle';
 
 const fasIcons = [
+    faFilter,
+    faPlusCircle,
     faCalendarAlt,
     faArrowLeft,
     faArrowsV,

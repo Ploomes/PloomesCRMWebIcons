@@ -234,6 +234,9 @@ import { faTicket } from '@fortawesome/pro-duotone-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-duotone-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-duotone-svg-icons/faUserAstronaut';
 import { faCalendarAlt } from '@fortawesome/pro-duotone-svg-icons/faCalendarAlt';
+// Reports
+import { faFilter } from '@fortawesome/pro-duotone-svg-icons/faFilter';
+import { faPlusCircle } from '@fortawesome/pro-duotone-svg-icons/faPlusCircle';
 
 
 const fadIcons = [
@@ -251,6 +254,8 @@ const fadIcons = [
     faDownload,
     faEdit,
     faEllipsisH,
+    faPlusCircle,
+    faFilter,
     faEnvelope,
     faExternalLink,
     faEye,
