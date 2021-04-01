@@ -236,8 +236,8 @@ import { faTrophy } from '@fortawesome/pro-solid-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-solid-svg-icons/faUserAstronaut';
 import { faCalendarAlt } from '@fortawesome/pro-solid-svg-icons/faCalendarAlt';
 // Reports
-import { faFilter } from '@fortawesome/pro-regular-svg-icons/faFilter';
-import { faPlusCircle } from '@fortawesome/pro-regular-svg-icons/faPlusCircle';
+import { faFilter } from '@fortawesome/pro-solid-svg-icons/faFilter';
+import { faPlusCircle } from '@fortawesome/pro-solid-svg-icons/faPlusCircle';
 
 const fasIcons = [
     faFilter,
