@@ -240,12 +240,14 @@ import { faCalendarAlt } from '@fortawesome/pro-light-svg-icons/faCalendarAlt';
 import { faTable } from '@fortawesome/pro-light-svg-icons/faTable';
 import { faSendBack } from '@fortawesome/pro-light-svg-icons/faSendBack';
 import { faEllipsisV } from '@fortawesome/pro-light-svg-icons/faEllipsisV';
+import { faLightbulb } from '@fortawesome/pro-light-svg-icons/faLightbulb';
 
 // Reports
 import { faFilter } from '@fortawesome/pro-light-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-light-svg-icons/faPlusCircle';
 
 const falIcons = [
+    faLightbulb,
     faFilter,
     faPlusCircle,
     faArrowLeft,

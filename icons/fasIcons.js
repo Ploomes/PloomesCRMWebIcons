@@ -235,11 +235,14 @@ import { faTicket } from '@fortawesome/pro-solid-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-solid-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-solid-svg-icons/faUserAstronaut';
 import { faCalendarAlt } from '@fortawesome/pro-solid-svg-icons/faCalendarAlt';
+import { faLightbulb } from '@fortawesome/pro-solid-svg-icons/faLightbulb';
+
 // Reports
 import { faFilter } from '@fortawesome/pro-solid-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-solid-svg-icons/faPlusCircle';
 
 const fasIcons = [
+    faLightbulb,
     faFilter,
     faPlusCircle,
     faCalendarAlt,

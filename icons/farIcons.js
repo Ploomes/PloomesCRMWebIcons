@@ -234,12 +234,15 @@ import { faTicket } from '@fortawesome/pro-regular-svg-icons/faTicket';
 import { faTrophy } from '@fortawesome/pro-regular-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-regular-svg-icons/faUserAstronaut';
 import { faCalendarAlt } from '@fortawesome/pro-regular-svg-icons/faCalendarAlt';
+import { faLightbulb } from '@fortawesome/pro-regular-svg-icons/faLightbulb';
+
 // Reports
 import { faFilter } from '@fortawesome/pro-regular-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-regular-svg-icons/faPlusCircle';
 
 
 const farIcons = [
+    faLightbulb,
     faFilter,
     faPlusCircle,
     faCalendarAlt,
