@@ -241,12 +241,14 @@ import { faTable } from '@fortawesome/pro-light-svg-icons/faTable';
 import { faSendBack } from '@fortawesome/pro-light-svg-icons/faSendBack';
 import { faEllipsisV } from '@fortawesome/pro-light-svg-icons/faEllipsisV';
 import { faLightbulb } from '@fortawesome/pro-light-svg-icons/faLightbulb';
+import { faClone } from '@fortawesome/pro-light-svg-icons/faClone';
 
 // Reports
 import { faFilter } from '@fortawesome/pro-light-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-light-svg-icons/faPlusCircle';
 
 const falIcons = [
+    faClone,
     faLightbulb,
     faFilter,
     faPlusCircle,

@@ -235,6 +235,7 @@ import { faTrophy } from '@fortawesome/pro-regular-svg-icons/faTrophy';
 import { faUserAstronaut } from '@fortawesome/pro-regular-svg-icons/faUserAstronaut';
 import { faCalendarAlt } from '@fortawesome/pro-regular-svg-icons/faCalendarAlt';
 import { faLightbulb } from '@fortawesome/pro-regular-svg-icons/faLightbulb';
+import { faClone } from '@fortawesome/pro-regular-svg-icons/faClone';
 
 // Reports
 import { faFilter } from '@fortawesome/pro-regular-svg-icons/faFilter';
@@ -242,6 +243,7 @@ import { faPlusCircle } from '@fortawesome/pro-regular-svg-icons/faPlusCircle';
 
 
 const farIcons = [
+    faClone,
     faLightbulb,
     faFilter,
     faPlusCircle,
