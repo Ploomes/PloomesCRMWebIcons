@@ -239,9 +239,15 @@ import { faClone } from '@fortawesome/pro-duotone-svg-icons/faClone';
 // Reports
 import { faFilter } from '@fortawesome/pro-duotone-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-duotone-svg-icons/faPlusCircle';
+import { faGripVertical } from '@fortawesome/pro-duotone-svg-icons/faGripVertical';
+import { faPlus } from '@fortawesome/pro-duotone-svg-icons/faPlus';
+import { faPen } from '@fortawesome/pro-duotone-svg-icons/faPen';
 
 
 const fadIcons = [
+    faGripVertical,
+    faPlus,
+    faPen,
     faClone,
     faLightbulb,
     faCalendarAlt,

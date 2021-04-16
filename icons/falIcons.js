@@ -246,8 +246,14 @@ import { faClone } from '@fortawesome/pro-light-svg-icons/faClone';
 // Reports
 import { faFilter } from '@fortawesome/pro-light-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-light-svg-icons/faPlusCircle';
+import { faGripVertical } from '@fortawesome/pro-light-svg-icons/faGripVertical';
+import { faPlus } from '@fortawesome/pro-light-svg-icons/faPlus';
+import { faPen } from '@fortawesome/pro-light-svg-icons/faPen';
 
 const falIcons = [
+    faGripVertical,
+    faPlus,
+    faPen,
     faClone,
     faLightbulb,
     faFilter,

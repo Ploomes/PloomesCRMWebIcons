@@ -240,9 +240,14 @@ import { faClone } from '@fortawesome/pro-regular-svg-icons/faClone';
 // Reports
 import { faFilter } from '@fortawesome/pro-regular-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-regular-svg-icons/faPlusCircle';
-
+import { faGripVertical } from '@fortawesome/pro-regular-svg-icons/faGripVertical';
+import { faPlus } from '@fortawesome/pro-regular-svg-icons/faPlus';
+import { faPen } from '@fortawesome/pro-regular-svg-icons/faPen';
 
 const farIcons = [
+    faGripVertical,
+    faPlus,
+    faPen,
     faClone,
     faLightbulb,
     faFilter,

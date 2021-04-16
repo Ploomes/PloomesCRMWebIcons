@@ -239,10 +239,16 @@ import { faLightbulb } from '@fortawesome/pro-solid-svg-icons/faLightbulb';
 import { faClone } from '@fortawesome/pro-solid-svg-icons/faClone';
 
 // Reports
+import { faGripVertical } from '@fortawesome/pro-solid-svg-icons/faGripVertical';
+import { faPlus } from '@fortawesome/pro-solid-svg-icons/faPlus';
+import { faPen } from '@fortawesome/pro-solid-svg-icons/faPen';
 import { faFilter } from '@fortawesome/pro-solid-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-solid-svg-icons/faPlusCircle';
 
 const fasIcons = [
+    faGripVertical,
+    faPlus,
+    faPen,
     faClone,
     faLightbulb,
     faFilter,
