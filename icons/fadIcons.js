@@ -242,10 +242,12 @@ import { faPlusCircle } from '@fortawesome/pro-duotone-svg-icons/faPlusCircle';
 import { faGripVertical } from '@fortawesome/pro-duotone-svg-icons/faGripVertical';
 import { faPlus } from '@fortawesome/pro-duotone-svg-icons/faPlus';
 import { faPen } from '@fortawesome/pro-duotone-svg-icons/faPen';
-
+import { faTimesOctagon } from '@fortawesome/pro-duotone-svg-icons/faTimesOctagon';
+// times-octagon
 
 const fadIcons = [
     faGripVertical,
+    faTimesOctagon,
     faPlus,
     faPen,
     faClone,

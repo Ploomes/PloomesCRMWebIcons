@@ -243,8 +243,10 @@ import { faPlusCircle } from '@fortawesome/pro-regular-svg-icons/faPlusCircle';
 import { faGripVertical } from '@fortawesome/pro-regular-svg-icons/faGripVertical';
 import { faPlus } from '@fortawesome/pro-regular-svg-icons/faPlus';
 import { faPen } from '@fortawesome/pro-regular-svg-icons/faPen';
+import { faTimesOctagon } from '@fortawesome/pro-regular-svg-icons/faTimesOctagon';
 
 const farIcons = [
+    faTimesOctagon,
     faGripVertical,
     faPlus,
     faPen,
