@@ -251,7 +251,26 @@ import { faPlus } from '@fortawesome/pro-light-svg-icons/faPlus';
 import { faPen } from '@fortawesome/pro-light-svg-icons/faPen';
 import { faTimesOctagon } from '@fortawesome/pro-light-svg-icons/faTimesOctagon';
 
+import { faScroll } from '@fortawesome/pro-light-svg-icons/faScroll';
+import { faSortNumericUp } from '@fortawesome/pro-light-svg-icons/faSortNumericUp';
+import { faSquareRootAlt } from '@fortawesome/pro-light-svg-icons/faSquareRootAlt';
+import { faClock } from '@fortawesome/pro-light-svg-icons/faClock';
+import { faToggleOff } from '@fortawesome/pro-light-svg-icons/faToggleOff';
+import { faUser } from '@fortawesome/pro-light-svg-icons/faUser';
+import { faMapMarked } from '@fortawesome/pro-light-svg-icons/faMapMarked';
+import { faImage } from '@fortawesome/pro-light-svg-icons/faImage';
+import { faFillDrip } from '@fortawesome/pro-light-svg-icons/faFillDrip';
+
 const falIcons = [
+    faScroll,
+    faSortNumericUp,
+    faSquareRootAlt,
+    faClock,
+    faToggleOff,
+    faUser,
+    faMapMarked,
+    faImage,
+    faFillDrip,
     faTimesOctagon,
     faGripVertical,
     faPlus,

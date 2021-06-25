@@ -246,7 +246,30 @@ import { faFilter } from '@fortawesome/pro-solid-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-solid-svg-icons/faPlusCircle';
 import { faTimesOctagon } from '@fortawesome/pro-solid-svg-icons/faTimesOctagon';
 
+
+import { faScroll } from '@fortawesome/pro-solid-svg-icons/faScroll';
+import { faSortNumericUp } from '@fortawesome/pro-solid-svg-icons/faSortNumericUp';
+import { faSquareRootAlt } from '@fortawesome/pro-solid-svg-icons/faSquareRootAlt';
+import { faClock } from '@fortawesome/pro-solid-svg-icons/faClock';
+import { faToggleOff } from '@fortawesome/pro-solid-svg-icons/faToggleOff';
+import { faUser } from '@fortawesome/pro-solid-svg-icons/faUser';
+import { faMapMarked } from '@fortawesome/pro-solid-svg-icons/faMapMarked';
+import { faImage } from '@fortawesome/pro-solid-svg-icons/faImage';
+import { faPaperclip } from '@fortawesome/pro-solid-svg-icons/faPaperclip';
+import { faFillDrip } from '@fortawesome/pro-solid-svg-icons/faFillDrip';
+
+
 const fasIcons = [
+    faScroll,
+    faSortNumericUp,
+    faSquareRootAlt,
+    faClock,
+    faToggleOff,
+    faUser,
+    faMapMarked,
+    faImage,
+    faPaperclip,
+    faFillDrip,
     faTimesOctagon,
     faGripVertical,
     faPlus,

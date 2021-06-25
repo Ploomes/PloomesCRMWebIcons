@@ -245,7 +245,28 @@ import { faPen } from '@fortawesome/pro-duotone-svg-icons/faPen';
 import { faTimesOctagon } from '@fortawesome/pro-duotone-svg-icons/faTimesOctagon';
 // times-octagon
 
+import { faScroll } from '@fortawesome/pro-duotone-svg-icons/faScroll';
+import { faSortNumericUp } from '@fortawesome/pro-duotone-svg-icons/faSortNumericUp';
+import { faSquareRootAlt } from '@fortawesome/pro-duotone-svg-icons/faSquareRootAlt';
+import { faClock } from '@fortawesome/pro-duotone-svg-icons/faClock';
+import { faToggleOff } from '@fortawesome/pro-duotone-svg-icons/faToggleOff';
+import { faUser } from '@fortawesome/pro-duotone-svg-icons/faUser';
+import { faMapMarked } from '@fortawesome/pro-duotone-svg-icons/faMapMarked';
+import { faImage } from '@fortawesome/pro-duotone-svg-icons/faImage';
+import { faPaperclip } from '@fortawesome/pro-duotone-svg-icons/faPaperclip';
+import { faFillDrip } from '@fortawesome/pro-duotone-svg-icons/faFillDrip';
+
 const fadIcons = [
+    faScroll,
+    faSortNumericUp,
+    faSquareRootAlt,
+    faClock,
+    faToggleOff,
+    faUser,
+    faMapMarked,
+    faImage,
+    faPaperclip,
+    faFillDrip,
     faGripVertical,
     faTimesOctagon,
     faPlus,
