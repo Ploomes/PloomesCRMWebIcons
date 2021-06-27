@@ -245,7 +245,40 @@ import { faPlus } from '@fortawesome/pro-regular-svg-icons/faPlus';
 import { faPen } from '@fortawesome/pro-regular-svg-icons/faPen';
 import { faTimesOctagon } from '@fortawesome/pro-regular-svg-icons/faTimesOctagon';
 
+import { faScroll } from '@fortawesome/pro-regular-svg-icons/faScroll';
+import { faSortNumericUp } from '@fortawesome/pro-regular-svg-icons/faSortNumericUp';
+import { faSquareRootAlt } from '@fortawesome/pro-regular-svg-icons/faSquareRootAlt';
+import { faClock } from '@fortawesome/pro-regular-svg-icons/faClock';
+import { faToggleOff } from '@fortawesome/pro-regular-svg-icons/faToggleOff';
+import { faUser } from '@fortawesome/pro-regular-svg-icons/faUser';
+import { faMapMarked } from '@fortawesome/pro-regular-svg-icons/faMapMarked';
+import { faImage } from '@fortawesome/pro-regular-svg-icons/faImage';
+import { faFillDrip } from '@fortawesome/pro-regular-svg-icons/faFillDrip';
+import { faCalendarDay } from '@fortawesome/pro-regular-svg-icons/faCalendarDay';
+import { faText } from '@fortawesome/pro-regular-svg-icons/faText';
+import { faSave } from '@fortawesome/pro-regular-svg-icons/faSave';
+import { faExclamationCircle } from '@fortawesome/pro-regular-svg-icons/faExclamationCircle';
+import { faArrowRight } from '@fortawesome/pro-regular-svg-icons/faArrowRight';
+import { faTachometerSlow } from '@fortawesome/pro-regular-svg-icons/faTachometerSlow';
+import { faChartArea } from '@fortawesome/pro-regular-svg-icons/faChartArea';
+
 const farIcons = [
+    faScroll,
+    faSortNumericUp,
+    faSquareRootAlt,
+    faClock,
+    faToggleOff,
+    faUser,
+    faMapMarked,
+    faImage,
+    faFillDrip,
+    faCalendarDay,
+    faText,
+    faSave,
+    faExclamationCircle,
+    faArrowRight,
+    faTachometerSlow,
+    faChartArea,
     faTimesOctagon,
     faGripVertical,
     faPlus,

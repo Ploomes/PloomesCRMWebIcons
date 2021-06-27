@@ -260,8 +260,22 @@ import { faUser } from '@fortawesome/pro-light-svg-icons/faUser';
 import { faMapMarked } from '@fortawesome/pro-light-svg-icons/faMapMarked';
 import { faImage } from '@fortawesome/pro-light-svg-icons/faImage';
 import { faFillDrip } from '@fortawesome/pro-light-svg-icons/faFillDrip';
+import { faCalendarDay } from '@fortawesome/pro-light-svg-icons/faCalendarDay';
+import { faText } from '@fortawesome/pro-light-svg-icons/faText';
+import { faSave } from '@fortawesome/pro-light-svg-icons/faSave';
+import { faExclamationCircle } from '@fortawesome/pro-light-svg-icons/faExclamationCircle';
+import { faArrowRight } from '@fortawesome/pro-light-svg-icons/faArrowRight';
+import { faTachometerSlow } from '@fortawesome/pro-light-svg-icons/faTachometerSlow';
+import { faChartArea } from '@fortawesome/pro-light-svg-icons/faChartArea';
 
 const falIcons = [
+    faCalendarDay,
+    faText,
+    faSave,
+    faExclamationCircle,
+    faArrowRight,
+    faTachometerSlow,
+    faChartArea,
     faScroll,
     faSortNumericUp,
     faSquareRootAlt,

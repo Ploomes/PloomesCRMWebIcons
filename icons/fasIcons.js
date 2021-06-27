@@ -257,9 +257,22 @@ import { faMapMarked } from '@fortawesome/pro-solid-svg-icons/faMapMarked';
 import { faImage } from '@fortawesome/pro-solid-svg-icons/faImage';
 import { faPaperclip } from '@fortawesome/pro-solid-svg-icons/faPaperclip';
 import { faFillDrip } from '@fortawesome/pro-solid-svg-icons/faFillDrip';
-
+import { faCalendarDay, } from '@fortawesome/pro-solid-svg-icons/faCalendarDay';
+import { faText, } from '@fortawesome/pro-solid-svg-icons/faText';
+import { faSave, } from '@fortawesome/pro-solid-svg-icons/faSave';
+import { faExclamationCircle, } from '@fortawesome/pro-solid-svg-icons/faExclamationCircle';
+import { faArrowRight, } from '@fortawesome/pro-solid-svg-icons/faArrowRight';
+import { faTachometerSlow, } from '@fortawesome/pro-solid-svg-icons/faTachometerSlow';
+import { faChartArea, } from '@fortawesome/pro-solid-svg-icons/faChartArea';
 
 const fasIcons = [
+    faCalendarDay,
+    faText,
+    faSave,
+    faExclamationCircle,
+    faArrowRight,
+    faTachometerSlow,
+    faChartArea,
     faScroll,
     faSortNumericUp,
     faSquareRootAlt,

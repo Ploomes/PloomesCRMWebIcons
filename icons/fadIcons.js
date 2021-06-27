@@ -255,8 +255,28 @@ import { faMapMarked } from '@fortawesome/pro-duotone-svg-icons/faMapMarked';
 import { faImage } from '@fortawesome/pro-duotone-svg-icons/faImage';
 import { faPaperclip } from '@fortawesome/pro-duotone-svg-icons/faPaperclip';
 import { faFillDrip } from '@fortawesome/pro-duotone-svg-icons/faFillDrip';
+import { faCalendarDay } from '@fortawesome/pro-duotone-svg-icons/faCalendarDay';
+import { faText } from '@fortawesome/pro-duotone-svg-icons/faText';
+import { faSave } from '@fortawesome/pro-duotone-svg-icons/faSave';
+import { faExclamationCircle } from '@fortawesome/pro-duotone-svg-icons/faExclamationCircle';
+import { faArrowRight } from '@fortawesome/pro-duotone-svg-icons/faArrowRight';
+import { faTachometerSlow } from '@fortawesome/pro-duotone-svg-icons/faTachometerSlow';
+import { faChartArea } from '@fortawesome/pro-duotone-svg-icons/faChartArea';
 
+// save
+// exclamation-circle
+// arrow-right
+// calendar-day
+// tachometer-slow
+// chart-area
 const fadIcons = [
+    faCalendarDay,
+    faText,
+    faSave,
+    faExclamationCircle,
+    faArrowRight,
+    faTachometerSlow,
+    faChartArea,
     faScroll,
     faSortNumericUp,
     faSquareRootAlt,
