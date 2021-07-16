@@ -246,7 +246,6 @@ import { faFilter } from '@fortawesome/pro-solid-svg-icons/faFilter';
 import { faPlusCircle } from '@fortawesome/pro-solid-svg-icons/faPlusCircle';
 import { faTimesOctagon } from '@fortawesome/pro-solid-svg-icons/faTimesOctagon';
 
-
 import { faScroll } from '@fortawesome/pro-solid-svg-icons/faScroll';
 import { faSortNumericUp } from '@fortawesome/pro-solid-svg-icons/faSortNumericUp';
 import { faSquareRootAlt } from '@fortawesome/pro-solid-svg-icons/faSquareRootAlt';
@@ -265,7 +264,12 @@ import { faArrowRight, } from '@fortawesome/pro-solid-svg-icons/faArrowRight';
 import { faTachometerSlow, } from '@fortawesome/pro-solid-svg-icons/faTachometerSlow';
 import { faChartArea, } from '@fortawesome/pro-solid-svg-icons/faChartArea';
 
+import { faCreditCardBlank } from '@fortawesome/pro-solid-svg-icons/faCreditCardBlank';
+import { faGameBoardAlt } from '@fortawesome/pro-solid-svg-icons/faGameBoardAlt';
+
 const fasIcons = [
+    faCreditCardBlank,
+    faGameBoardAlt,
     faCalendarDay,
     faText,
     faSave,

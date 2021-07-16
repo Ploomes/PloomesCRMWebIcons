@@ -263,13 +263,12 @@ import { faArrowRight } from '@fortawesome/pro-duotone-svg-icons/faArrowRight';
 import { faTachometerSlow } from '@fortawesome/pro-duotone-svg-icons/faTachometerSlow';
 import { faChartArea } from '@fortawesome/pro-duotone-svg-icons/faChartArea';
 
-// save
-// exclamation-circle
-// arrow-right
-// calendar-day
-// tachometer-slow
-// chart-area
+import { faCreditCardBlank } from '@fortawesome/pro-duotone-svg-icons/faCreditCardBlank';
+import { faGameBoardAlt } from '@fortawesome/pro-duotone-svg-icons/faGameBoardAlt';
+
 const fadIcons = [
+    faCreditCardBlank,
+    faGameBoardAlt,
     faCalendarDay,
     faText,
     faSave,

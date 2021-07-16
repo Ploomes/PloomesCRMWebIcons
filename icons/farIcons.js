@@ -262,7 +262,12 @@ import { faArrowRight } from '@fortawesome/pro-regular-svg-icons/faArrowRight';
 import { faTachometerSlow } from '@fortawesome/pro-regular-svg-icons/faTachometerSlow';
 import { faChartArea } from '@fortawesome/pro-regular-svg-icons/faChartArea';
 
+import { faCreditCardBlank } from '@fortawesome/pro-regular-svg-icons/faCreditCardBlank';
+import { faGameBoardAlt } from '@fortawesome/pro-regular-svg-icons/faGameBoardAlt';
+
 const farIcons = [
+    faCreditCardBlank,
+    faGameBoardAlt,
     faScroll,
     faSortNumericUp,
     faSquareRootAlt,
