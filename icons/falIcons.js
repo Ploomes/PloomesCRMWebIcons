@@ -271,7 +271,12 @@ import { faChartArea } from '@fortawesome/pro-light-svg-icons/faChartArea';
 import { faCreditCardBlank } from '@fortawesome/pro-light-svg-icons/faCreditCardBlank';
 import { faGameBoardAlt } from '@fortawesome/pro-light-svg-icons/faGameBoardAlt';
 
+import { faBoxUsd } from '@fortawesome/pro-light-svg-icons/faBoxUsd';
+import { faTag } from '@fortawesome/pro-light-svg-icons/faTag';
+
 const falIcons = [
+    faBoxUsd,
+    faTag,
     faCreditCardBlank,
     faGameBoardAlt,
     faCalendarDay,

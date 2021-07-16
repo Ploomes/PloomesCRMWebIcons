@@ -265,8 +265,12 @@ import { faChartArea } from '@fortawesome/pro-duotone-svg-icons/faChartArea';
 
 import { faCreditCardBlank } from '@fortawesome/pro-duotone-svg-icons/faCreditCardBlank';
 import { faGameBoardAlt } from '@fortawesome/pro-duotone-svg-icons/faGameBoardAlt';
+import { faBoxUsd } from '@fortawesome/pro-duotone-svg-icons/faBoxUsd';
+import { faTag } from '@fortawesome/pro-duotone-svg-icons/faTag';
 
 const fadIcons = [
+    faBoxUsd,
+    faTag,
     faCreditCardBlank,
     faGameBoardAlt,
     faCalendarDay,
